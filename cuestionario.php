@@ -34,6 +34,8 @@
 
     <div class="form-group">
         <label class="titulo-cuest"><b>Tipo de empresa</b></label>
+        <div>
+</div>
         <select >
         <option disabled selected hidden>Favor de seleccionar</option>
         <option value="1">Distribuidor</option>a
