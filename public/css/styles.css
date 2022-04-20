@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: whitesmoke;
+}
+
+form {
+	width: 65%;
+	margin: 40px auto;
+	background: white;
+	padding: 10px;
+	border-radius: 3px;
+}
+h2.form-title {
+	text-align: center;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size: 26px;
+	font-style: bold;
+}
+
+h3.form-title{
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size: 22px;
+	font-style: bold;
+} 
+h4.form-title{
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size: 16px;
+}
+input {
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 6px;
+    font-size: 17px;
+}
+form .form-group {
+	margin: 20px auto;
+}
+form button {
+	width: 40%;
+	border: none;
+	background-color: rgb(0, 94, 144);
+    color: white;
+	height: 10%;
+    font-size: 16pt;
+    margin-left: 30%;
+	font-style: bold;
+	padding: 5px;
+	border-radius: 6px;
+}
+.texto_bievenida{
+	background: white;
+	width: 100%;
+} 
+
+.titulo-cuest{
+    font-size:17px;
+	font-style: bold;
+} 
+.centrado_img {
+	margin: auto; 
+	width:110px;
+	
+} 
+
+.img_logo{
+	width:110px;
+}
+
+select{
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 6px;
+    font-size: 17px;
+} 
+.iniciar_sesion{
+	color: rgb(0, 94, 144);
+	text-decoration: none;
+}
