@@ -31,13 +31,12 @@
       <label class="titulo-cuest"><b>Empresa</b></label>
       <input type="text" id="empresa" name="empresa"  placeholder="Nombre de la empresa">
     </div>
-    s
     <div class="form-group">
         <label class="titulo-cuest"><b>Tipo de empresa</b></label>
        
         <select >
         <option disabled selected hidden>Favor de seleccionar</option>
-        <option value="1">Distribuidor</option>a
+        <option value="1">Distribuidor</option>
         <option value="2">Instalador</option>
         <option value="2">Reveendedor</option>
         </select>
